@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jeliel Friebe
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning Godot
